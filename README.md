@@ -1,1 +1,2 @@
 # Sign_Langauge_Translator_Project
+This device is designed to seamlessly translate hand movements in American Sign Language (ASL) into letters, facilitating effortless communication for individuals with visual impairments. The primary objective of this device is to empower those facing visibility challenges by providing them with a convenient and effective means of expressing themselves through sign language, ultimately enhancing their communication experience.
