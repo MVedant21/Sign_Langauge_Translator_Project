@@ -32,8 +32,7 @@ The communication happens via bluetooth connection to the user's device.
 
 ## Hardware Components
 
-List and describe the essential hardware components needed for the project. Include links or specifications if possible.
-
+Flex sensors, gyroscope, PCB board, wires, bluetooth module(HC 05), Arduino NANO
 ## Software Requirements
 
 Specify any software requirements, including dependencies, libraries, or frameworks, along with version information.
