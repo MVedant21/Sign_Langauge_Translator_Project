@@ -21,11 +21,14 @@ A hand sign language translator to english alphabets and numbers.
 
 ## Introduction
 
-This device is designed to seamlessly translate hand movements in American Sign Language (ASL) into numbers and letters, facilitating effortless communication for individuals with visual impairments. The primary objective of this device is to empower those facing visibility challenges by providing them with a convenient and effective means of expressing themselves through sign language, ultimately enhancing their communication experience.
+This device is designed to seamlessly translate hand movements in American Sign Language (ASL) into numbers and letters, facilitating effortless communication for individuals with visual impairments. 
+The primary objective of this device is to empower those facing visibility challenges by providing them with a convenient and effective means of expressing themselves through sign language, ultimately enhancing their communication experience.
 
 ## Features
 
-The unique positions of the hand and the palm results into a different letter and a number. Enables people to communicate with just hand and finger movements, thus helping the disabled.
+The unique positions of the hand and the palm results into a different letter and a number. 
+Enables people to communicate with just hand and finger movements, thus helping the disabled.
+The communication happens via bluetooth connection to the user's device.
 
 ## Hardware Components
 
