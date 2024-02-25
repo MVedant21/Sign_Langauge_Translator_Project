@@ -44,6 +44,7 @@ The primary objective of this device is to empower those facing visibility chall
 ## Circuit Diagram
 
 ![image](https://github.com/MVedant21/Sign_Langauge_Translator_Project/assets/116884701/613d7c9e-571e-49ea-b99f-ce9bf48a1ed3)
-![WhatsApp Image 2023-11-30 at 13 17 12_60dab10](https://github.com/MVedant21/Sign_Langauge_Translator_Project/assets/116884701/09f1391e-9241-411a-899b-f639f846bae3)
+![WhatsApp Image 2023-11-30 at 13 17 12_105dab3](https://github.com/MVedant21/Sign_Langauge_Translator_Project/assets/116884701/c29ca942-1b8f-49c1-86e1-c73fbf8d4e9d)
+
 
 
