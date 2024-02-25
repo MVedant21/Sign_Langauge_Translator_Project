@@ -31,7 +31,7 @@ The communication happens via bluetooth connection to the user's device.
 
 ## Hardware Components
 
-Flex sensors, gyroscope, PCB board, wires, bluetooth module(HC 05), Arduino NANO
+Flex sensors, Adafruit Analog Accelerometer: ADXL335, PCB board, wires, HC - 05 bluetooth module, Arduino NANO, glove, zip-tags, soldering machine, Resistor 10k ohm.
 
 ## Software Requirements
 
@@ -42,4 +42,6 @@ The code required is written in Arduino Ide.
 The primary objective of this device is to empower those facing visibility challenges by providing them with a convenient and effective means of expressing themselves through sign language, ultimately enhancing their communication experience. People with visibility aid can be taught these movements in order to communicate what they want as an alternative for Braille Script. They can listen to the output coming from the device which is connected to the bluetooth module via the app.
 
 ## Circuit Diagram
+
+![image](https://github.com/MVedant21/Sign_Langauge_Translator_Project/assets/116884701/613d7c9e-571e-49ea-b99f-ce9bf48a1ed3)
 
